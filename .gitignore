@@ -1,4 +1,9 @@
+# dependencies
 /node_modules/
 /public/build/
 
+# misc
 .DS_Store
+
+# debug
+yarn-error.log*
